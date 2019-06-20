@@ -27,5 +27,5 @@ The data were obtained from three different sources as follows:
 
 ### Other Files Provided
 - `twitter-archive-master`: After cleaning the data, it was saved to this file.
-- `wranlge-report.html`: This html file, summarize the effort spent on this project
+- `wranlge-report.html`: This html file, summarize the data wrangling effort spent on this project.
 - `act_report.pdf`: This file summarizes the exploratory data analysis I made on the clean data.
